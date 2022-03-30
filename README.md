@@ -15,4 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaobucvg&show_icons=true">
+```
+- 🔭 能够自己吃饭 ~
+- 🌱 能够自己洗澡 ~
+- 👯 能够自己去厕所 ~
+- 🤔 可以接受马桶 ~
+- 💬 喜欢女人 ~
+- 📫 email: www.1714005186@gmail.com ~
+- 😄 qq: 1714005186 ~
+- ⚡ wechat: 1714005186 ~
+```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=xiaobucvg&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobucvg" />
+</a>
+
+
+
